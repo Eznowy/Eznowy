@@ -29,6 +29,23 @@
   </a>
 </p>
 
+# 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=eznowy&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eznowy&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eznowy&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats:
 ![eznowy's Stats](https://github-readme-stats.vercel.app/api?username=eznowy&theme=dark&show_icons=true&hide_border=true&count_private=true)
