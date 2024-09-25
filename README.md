@@ -42,7 +42,7 @@ I am a versatile Full Stack Engineer with more than 5 years of experience, succe
 
 
 <div style="display: flex; justify-content: center; align-items: center;">  
-   <img style="height: 300px; width: auto;" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+   <img style="height: 300px; width: 100%;" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 
 
