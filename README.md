@@ -38,9 +38,9 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-
-
-
+![eznowy's Stats](https://github-readme-stats.vercel.app/api?username=eznowy&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![eznowy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eznowy&theme=dark&hide_border=false)
+![eznowy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eznowy&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 
