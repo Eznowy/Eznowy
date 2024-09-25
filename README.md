@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >  I'm Orlando / Eznowy :rocket: </h1> 
 
-## 👋 My social networks => [English]
+## 👋 My social networks => [English] 	&#128064;
 <p align="left">
   <a href="https://www.youtube.com/@Ezznowy" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  /></a>
 <a href="https://www.tiktok.com/@ezznowy?_t=8q1dPMVJIxS&_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a> 
