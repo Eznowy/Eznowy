@@ -10,10 +10,6 @@
 <a href = "https://www.instagram.com/eznowy/?hl=es-la" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
 </p>
 
-# 💫 About Me:
-
-I am a software engineering student
-
 ## :hammer_and_wrench: Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
