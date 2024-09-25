@@ -15,11 +15,11 @@
 🎓 Software Engineer
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-:white_check_mark:
+:white_check_mark:<br>
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-:white_check_mark:
+:white_check_mark:<br>
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-:white_check_mark:
+:white_check_mark:<br>
 📫 Contacto: **@gmail.com**
 <!--Intro end-->
   </p>
@@ -38,11 +38,11 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
 
-:white_check_mark:
-:white_check_mark:
-:white_check_mark:
-:white_check_mark:
-:white_check_mark:
+:white_check_mark:<br>
+:white_check_mark:<br>
+:white_check_mark:<br>
+:white_check_mark:<br>
+:white_check_mark:<br>
 
 
 
