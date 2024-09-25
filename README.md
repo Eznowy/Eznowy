@@ -18,8 +18,6 @@
 
 I am a versatile Full Stack Engineer with more than 5 years of experience, successful at completing simultaneous development and update projects. Decisive leader and reliable team builder with a results-focused and motivated approach. Develops software solutions for a variety of client needs and experimentation platforms.
 
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.
-
 ## :hammer_and_wrench: Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
