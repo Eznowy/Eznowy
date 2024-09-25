@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Orlando+Meza+/+Eznowy;I'm+Software+Engineer)](https://git.io/typing-svg)
-# 💫 About Me:
+
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Orlando / Eznowy :rocket: </h1> 
 
 <p align="left">
