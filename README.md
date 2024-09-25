@@ -41,8 +41,7 @@ I am a versatile Full Stack Engineer with more than 5 years of experience, succe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div style="display: flex; justify-content: center; align-items: center;">  
-   <img style="height: 300px; width: 100%;" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 
 
