@@ -44,12 +44,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools ....***
 <p align="left">
+  <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  /></a>
 
-:white_check_mark:<br>
-:white_check_mark:<br>
-:white_check_mark:<br>
-:white_check_mark:<br>
-:white_check_mark:<br>
+
 
 <br>
 
