@@ -18,7 +18,7 @@
 
 I am a versatile Full Stack Engineer with more than 5 years of experience, successful at completing simultaneous development and update projects. Decisive leader and reliable team builder with a results-focused and motivated approach. Develops software solutions for a variety of client needs and experimentation platforms.
 
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br>
+🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><
 
 ## :hammer_and_wrench: Languages and Tools:
 <p align="left">
