@@ -31,16 +31,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eznowy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eznowy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eznowy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
+![eznowy's Stats](https://github-readme-stats.vercel.app/api?username=eznowy&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![eznowy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eznowy&theme=dark&hide_border=true)
+![eznowy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eznowy&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-![eznowy's Stats](https://github-readme-stats.vercel.app/api?username=eznowy&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![eznowy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eznowy&theme=dark&hide_border=false)
-![eznowy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eznowy&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 
 
 
