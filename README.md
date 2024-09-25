@@ -16,7 +16,7 @@
 
 # 💫 About Me:
 
-I am a student software Engineer .
+I am a software engineering student
 
 ## :hammer_and_wrench: Languages and Tools:
 <p align="left">
