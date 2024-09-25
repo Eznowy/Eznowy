@@ -21,7 +21,11 @@ I am a versatile Full Stack Engineer with more than 5 years of experience, succe
 
 🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
 
-
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
