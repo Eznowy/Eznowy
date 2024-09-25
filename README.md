@@ -37,7 +37,7 @@ I am a versatile Full Stack Engineer with more than 5 years of experience, succe
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eznowy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eznowy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eznowy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
