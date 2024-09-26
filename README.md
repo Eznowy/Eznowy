@@ -11,7 +11,7 @@
 <a href = "https://www.instagram.com/eznowy/?hl=es-la" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
 </p>
 
-## 👋 Mis redes sociales  => [Comunidad española]  &#128064;
+## 👋 Mis redes sociales  => [Comunidad hispanohablante]  &#128064;
 <p align="left">
  	&#9989; <a href="https://www.youtube.com/@Ezznowy" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  /></a>
 <a href="https://www.tiktok.com/@eznowy?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a> 
