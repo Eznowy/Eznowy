@@ -15,6 +15,7 @@
 ## 👋 Mis redes sociales  => [Comunidad hispanohablante]  &#128064;
 <p align="left">
  	&#9989; <a href="https://www.youtube.com/@Ezznowy" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  /></a>
+ <a href="https://t.me/+tUKj6Eo9o944MmRh" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
 <a href="https://www.tiktok.com/@eznowy?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/orlando-meza-negreiros-41382b199/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://www.facebook.com/Eznowy" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  /></a>
